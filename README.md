@@ -38,6 +38,10 @@
 ---
 
 ## ✨ Fun Animation
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shaurya926/Shaurya926/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Shaurya+Dubey;CSE+Student;AI+%26+Web+Developer;Hackathon+Enthusiast)](https://git.io/typing-svg)
+## 👋 Welcome Animation
+![Wave Animation](https://raw.githubusercontent.com/ABSphreak/readme-gifs/main/gifs/Hi.gif)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaurya926&theme=tokyo-night)
 
 ---
